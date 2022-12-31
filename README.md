@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um projeto para consultar Códigos de Endereçamento Postal (CEP) do Brasil.
 
-- [Acesse o projeto finalizado, online](https://jessica-guedes.github.io/buscador-cep)
+- [Acesse o projeto finalizado, online](https://buscador-cep-ruby.vercel.app/)
 
 
 Esse projeto está sob a licença MIT.
