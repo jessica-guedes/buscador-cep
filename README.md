@@ -1,4 +1,4 @@
-<h1 align="center"> Buscador de Cep </h1>
+<h1 align="center"> Buscador de CEP </h1>
 
 <p align="center">
 Projeto criado com para consumir API ViaCEP. <br/>
